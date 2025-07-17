@@ -19,8 +19,7 @@ def typing_effect(text, delay=0.002, color=Fore.WHITE):
 def display_animated_logo():
     clear_screen()
     logo_lines = [
- 
- ("|█████╗ ██╗   ██╗██╗   ██╗███████╗██╗  ██╗", Fore.YELLOW),
+  ("|█████╗ ██╗   ██╗██╗   ██╗███████╗██╗  ██╗", Fore.YELLOW),
 ("|██╔══██╗╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║", Fore.CYAN),
 ("|███████║ ╚████╔╝ ██║   ██║███████╗███████║", Fore.GREEN),
 ("|██╔══██║  ╚██╔╝  ██║   ██║╚════██║██╔══██║", Fore.CYAN),
