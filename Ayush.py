@@ -28,7 +28,6 @@ def display_animated_logo():
 ("|$$ |  $$ |    $$ |    $$ \__$$ |/  \__$$ |$$ |  $$ |", Fore.GREEN),
 ("|$$ |  $$ |    $$ |    $$    $$/ $$    $$/ $$ |  $$ |", Fore.YELLOW),
 ("|$$/   $$/     $$/      $$$$$$/   $$$$$$/  $$/   $$/", Fore.YELLOW)
-("", Fore.RESET),
 ("         ╭───────────────────────── < ~ COUNTRY ~  > ─────────────────────────────────────╮", Fore.CYAN),
 ("         │                         【•】 YOUR COUNTRY  ➤ INDIA                            │", Fore.CYAN),
 ("         │                         【•】 YOUR REGION   ➤ UP                               │", Fore.CYAN),
